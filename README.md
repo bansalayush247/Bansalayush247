@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🔨 Building **Bitcoin infrastructure** → Contributor @ [Demand Pool](https://github.com/demand-open-source)
+- 🔨 Building **Bitcoin infrastructure** → Contributor @ [Fedimint](https://github.com/fedimint), @ [Demand Pool](https://github.com/demand-open-source)
 - 🧑‍💻 Passionate about **Rust, Zero-Knowledge Proofs, Distributed Systems**
 - 🏆 **5× Hackathon Winner**
   - [ZKCertify](https://devfolio.co/projects/zkcertify-13c9) – Zero-knowledge credentials
