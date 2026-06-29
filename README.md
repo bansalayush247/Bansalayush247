@@ -1,11 +1,11 @@
 <h1 align="center">Ayush Bansal</h1>
 
 <h3 align="center">
-Bitcoin Open Source Developer • Fedimint Contributor • Summer of Bitcoin '25
+Building Open-Source Infrastructure for Bitcoin
 </h3>
 
 <p align="center">
-Building tools and infrastructure for the Bitcoin ecosystem.
+Fedimint • Rust • Distributed Systems • Observability
 </p>
 
 <p align="center">
@@ -14,103 +14,130 @@ Building tools and infrastructure for the Bitcoin ecosystem.
   </a>
 </p>
 
----
-
-## ⚡ About Me
-
-I'm a Bitcoin-focused open-source developer passionate about distributed systems, federation technology, observability, and privacy-preserving financial infrastructure.
-
-### Current Work
-
-* 🔭 Building **Fedimint Observer** — observability infrastructure for Bitcoin federations
-* 🦀 Rust developer focused on Bitcoin ecosystem projects
-* 🤝 Contributor to **Fedimint**
-* ⛏️ Contributor to **Demand Pool**
-* 🎓 Summer of Bitcoin 2025 Contributor
-
-### Areas of Interest
-
-* Bitcoin
-* Fedimint
-* Ecash Systems
-* Lightning Network
-* Distributed Systems
-* Rust
-* Monitoring & Observability
-* Privacy Technologies
-
----
-
-## 🚀 Open Source
-
-### Fedimint Observer
-
-Observability platform for Bitcoin federations.
-
-* Federation health monitoring
-* Metrics collection
-* Operational dashboards
-* Federation analytics
-* Reliability tooling
-
-### Contributions
-
-* Fedimint Ecosystem
-* Demand Pool
-* Summer of Bitcoin 2025
-* Open Source Bitcoin Infrastructure
-
----
-
-## ✍️ Writing
-
-* Inside Fedimint Observer: Building Observability Infrastructure for Bitcoin Federations
-* Bitcoin Infrastructure & Open Source Development
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,postgres,nix,docker,linux,git,github,aws,bash,java,python" />
+  <a href="https://github.com/bansalayush247?tab=followers">
+    <img src="https://img.shields.io/github/followers/bansalayush247?style=social" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 👋 About Me
+
+I'm a Bitcoin infrastructure engineer focused on building production-ready open-source software for the Fedimint ecosystem.
+
+Over the past year I've been contributing to Bitcoin open source through **Summer of Bitcoin**, **DMND Pool**, and **Fedimint Observer**, working across frontend architecture, backend services, deployment infrastructure, databases, and observability tooling.
+
+---
+
+# 🚀 Current Work
+
+- ⚡ Upstream Contributor to **Fedimint Observer**
+- 🦀 Rust Developer
+- 📊 Building observability infrastructure for Bitcoin federations
+- ⚙️ Backend, APIs & Deployment Infrastructure
+- 🛠️ Database Architecture & Monitoring Systems
+
+---
+
+# ⚡ Open Source Contributions
+
+## Fedimint Observer
+
+Production observability platform for Bitcoin federations.
+
+Recent work includes:
+
+- Frontend migration (Leptos → React)
+- Gateway monitoring
+- Guardian version tracking
+- Backend APIs
+- Deployment infrastructure
+- Database modularization
+- UTXO validation
+- Monitoring & observability tooling
+
+---
+
+## DMND Pool
+
+Summer of Bitcoin 2025
+
+Contributed to Bitcoin mining pool infrastructure as part of Summer of Bitcoin.
+
+---
+
+# ✍️ Technical Writing
+
+- 📝 Inside Fedimint Observer: Building Observability Infrastructure for Bitcoin Federations
+- 📝 Bitcoin Infrastructure & Open Source Development
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,postgres,nix,docker,linux,bash,git,github,aws,python" />
+</p>
+
+---
+
+# 📈 Current Focus
 
 ```text
 ⚡ Bitcoin Infrastructure
 ⚡ Fedimint Ecosystem
 ⚡ Rust Development
-⚡ Monitoring & Observability
 ⚡ Distributed Systems
+⚡ Monitoring & Observability
 ⚡ Open Source Sustainability
 ```
 
 ---
 
-## 🏆 Highlights
+# 🏆 Highlights
 
-* 🎓 Summer of Bitcoin 2025 Contributor
-* 🤝 Contributor to Fedimint Ecosystem
-* ⛏️ Contributor to Demand Pool
-* 🦀 Rust Open Source Developer
-* 🚀 Builder of Fedimint Observer
-* 🏆 5× Hackathon Winner
+- 🚀 Upstream Contributor to Fedimint Observer
+- 🎓 Summer of Bitcoin 2025 Contributor
+- ⛏️ Contributor to DMND Pool
+- 🦀 Rust Open Source Developer
+- 🏆 5× Hackathon Winner
 
 ---
 
-## 🌐 Connect
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://twitter.com/bansalayush247">𝕏 (Twitter)</a> •
-  <a href="https://linkedin.com/in/bansalayush247">LinkedIn</a> •
-  <a href="https://medium.com/@bansalayush247">Medium</a> •
-  <a href="mailto:work.ayushbansal07@gmail.com">Email</a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bansalayush247&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush247&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansalayush247&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://x.com/bansalayush247">𝕏</a> •
+<a href="https://linkedin.com/in/bansalayush247">LinkedIn</a> •
+<a href="https://medium.com/@bansalayush247">Medium</a> •
+<a href="mailto:work.ayushbansal07@gmail.com">Email</a>
+
 </p>
 
 ---
 
 <p align="center">
-Building open-source infrastructure for Bitcoin ⚡
+
+Building reliable, open-source infrastructure for the Bitcoin ecosystem ⚡
+
 </p>
